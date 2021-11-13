@@ -59,7 +59,7 @@
 }
 
 
-//**parte do banner */
+/**parte do banner */
 
 .banner{
     background-color: #120A8F;
@@ -71,7 +71,7 @@
 
 }
 
-.titulo-banner{
+.titulo-banner {
     position: absolute;
     width: 50%;
     height: 50%;
@@ -86,3 +86,4 @@
     display: flex;
     align-items: center;
     text-align: center;
+}
