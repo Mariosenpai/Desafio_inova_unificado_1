@@ -1,0 +1,8 @@
+.logo{
+    display: flex;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../../img2/Vector_15.png);
+    height: 200px;
+}
