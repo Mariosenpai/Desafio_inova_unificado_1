@@ -1,9 +1,5 @@
 header{
-    position: absolute;
-    width: 100%;
-    height: 100px;
-    left: 0px;
-    top: 0px;
-    background:#DD9601;
+    background:#EFEAFF;
+    padding: 20px 0;
 }
 
