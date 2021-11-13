@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+sans&display=swap');
+.principal-botao{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 14px 32px 15px;
+
+    position: absolute;
+    width: 190px;
+    height: 60px;
+    left: 8.5em;
+    bottom: 2em;
+
+    background: #CF8C01;
+    border-radius: 4px;
+
+    font-family: DM Sans,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+
+
+    color: #FFFFFF;
+
+}

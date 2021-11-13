@@ -1,0 +1,8 @@
+.principal-imagem-fundo{
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    height: 375px;
+    background-image: url("../../img2/principal_fundo.png");
+
+}

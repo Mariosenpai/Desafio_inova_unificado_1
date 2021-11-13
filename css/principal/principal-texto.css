@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.principal-texto{
+    display: inline-block;
+    width: 59%;
+    vertical-align: top;
+    text-align: center;
+    margin-top: 3em;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 72px;
+
+
+    color: #FFFFFF;
+}
