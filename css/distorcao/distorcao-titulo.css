@@ -1,0 +1,12 @@
+.distorcao-titulo{
+    font-family: Montserrat,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+
+    text-align: center;
+    padding-bottom: 1.5em;
+
+    color: #393939;
+}
