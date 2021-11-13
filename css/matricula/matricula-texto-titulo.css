@@ -1,0 +1,12 @@
+.matricula-texto-titulo{
+    font-family: Montserrat,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    align-items: center;
+
+    margin-bottom: 1em;
+
+    color: #393939;
+}
